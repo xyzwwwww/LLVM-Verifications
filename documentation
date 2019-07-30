@@ -11,4 +11,11 @@ Procedure:
 ---
 Next steps which I want to take:
 3. Convert LLVM IR in form of some clauses.
-4. Make it in form of SMT encodings. 
+4. Make it in form of SMT encodings.
+
+
+Some points to remember:
+
+1. What category of invariants are they?
+- I am talking more about the safety invariants and those
+type of invariants. 
