@@ -1,0 +1,14 @@
+We have an add program:
+
+Q: So a big question is what do you want to verify?
+A: Lets suppose that the sign of the answer is always
+positive.
+
+Procedure:
+1. Write a program in C.
+2. Use Clang to get the LLVM IR.
+
+---
+Next steps which I want to take:
+3. Convert LLVM IR in form of some clauses.
+4. Make it in form of SMT encodings. 
