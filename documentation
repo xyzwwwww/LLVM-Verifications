@@ -28,4 +28,14 @@ Other types of categories which I have come across:
 3. Invariants for the trap handlers : Hyperkernel
 4. Numerical invariants: multiple paper which use the concept
 of using numerical invariants to find the security flaws in
-the work. 
+the work.
+
+There can be multiple types of invariants but the big question
+that pops in my head is what is specific to cyber physical
+systems. What are the type of invariants which
+are specifically represented for a cyber physical system?
+
+1. Domain specificity:
+In that the invariants which can be defined are the control
+laws for a cyber-physical system. They will be defined as the
+application specific invariants.
