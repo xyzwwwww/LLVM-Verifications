@@ -18,4 +18,14 @@ Some points to remember:
 
 1. What category of invariants are they?
 - I am talking more about the safety invariants and those
-type of invariants. 
+type of invariants.
+- Other way to define this is - application specific
+invariants.
+
+Other types of categories which I have come across:
+1. consistency invariants: Yggdrisal
+2. Termination : Seahorn
+3. Invariants for the trap handlers : Hyperkernel
+4. Numerical invariants: multiple paper which use the concept
+of using numerical invariants to find the security flaws in
+the work. 
